@@ -1,0 +1,1 @@
+#![doc = include_str!("../doc/docs.md")]
